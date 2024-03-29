@@ -1,4 +1,10 @@
 ### Hi there 👋
+<style>
+body {
+    background-color: #181820; /* 设置背景颜色为浅灰色 */
+}
+</style>
+
 
 <!--
 **LYZ1125/LYZ1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +23,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=LYZ1125&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/LYZ1125/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/LYZ1125/count.svg) visitor,Thank You! :satisfied:	
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
